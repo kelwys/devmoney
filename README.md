@@ -47,7 +47,10 @@ Project developed during **IGNITE** offered by [Rocketseat](https://rocketseat.c
 
 <!-- ***You can see the first version [here](https://devmoney-virid.vercel.app/)!*** -->
 
-<!-- ## Next steps: -->
+## Next steps:
+
+- [ ] Responsive to mobile;
+- [ ] Black end light theme;
 
 
 
@@ -62,6 +65,8 @@ The original layout of devmoney is available in:
 </a>
 <!-- ![screen home](/src/assets/screen01.png)
 ![screen home](/src/assets/screen02.png) -->
+
+![dev money gif](./src/assets/devmoney.gif)
 
 ---
 
